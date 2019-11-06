@@ -1,2 +1,2 @@
 # CloudComputing
-Exercises on the Cloud Computing lecture
+*** Exercises on the Cloud Computing lecture ***
